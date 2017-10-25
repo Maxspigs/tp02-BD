@@ -1,0 +1,51 @@
+Ben|Daniel Shelton|Ben_t1.jpg|www.editionsmecaniquegenerale.com
+1|Les plus belles années|110
+2|L’envers de la retraite|122
+3|Un air de famille|113
+4|Le repos du guerrier|114
+5|À deux c’est mieux|123
+6|Danse toujours|106
+7|Le meilleur ami de l’homme|117
+Glorieux Printemps|Sophie Bédard|glorieux_printemps_t1.jpg|www.editionspowpow.com
+1|c’est complique|148
+2|Ça se complique|152
+3|On pensait que c’etait complique|148
+4|C’est bientôt la fin|176
+Dad|Nob|dad_t1.jpg|www.dupuis.com
+1|Fille à papa|48
+2|Secrets de famille|48
+3|Les nerfs a vif|48
+4|Star a domicile|48
+Harmony|Mathieu Reynes|harmony_t1.jpg|www.dupuis.com
+1|Memento|157
+2|Indigo|132
+3|Ago|314
+Marzi|Sylvain Savoia & Marzena sowa|marzi_t1.jpg|www.dupuis.com
+1|La Pologne vue par les yeux d’un enfant|140
+2|1989 Darnosc|111
+3|Nouveau souffle|108
+Paul a Quebec|Cyril Doisneau|PaulAQuebec_t1.jpg|www.lapasteque.com/
+1|21 jours de tournage|135
+Regulateur|Corbeyran|regulateur_t1.jpg|www.editions-delcourt.fr
+1|Ambrosia|147
+2|Hestia|119
+3|Ophidia|155
+4|666 I.A|123
+5| Cordelia|118
+6|Nyx|214
+Spirou|Rob-Vel|spirou_t1.jpg|www.dupuis.com
+1|L’heritage|203
+2|Radar le roobot|225
+3|La voix sans maître|253|
+4|Fantasio et le fantome|256
+5|Les folles aventures de Spirou|315
+Tintin|Herge|Tintin_Amerique_t1.jpg|fr.tintin.com
+1|Tintin en Amerique|156
+2|Tintin et les cigares du pharaon|178
+3|Tintin et l’etoile mysterieuse|145
+4|Tintin et le lotus bleu|195
+5|Tintin objectif lune|189
+Zombillenium|Arthur De Pins|zombillenium_t1.jpg|www.dupuis.com
+1|Gretchen|242
+2|Ressources Humaines|234
+3|Control Freaks|212
